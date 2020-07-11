@@ -13,7 +13,7 @@ I have used the following libraries
 - Seaborn
 - Statsmodels
 - Pylab
-- pmdarima.arima
+- pmdarima.arima 
 
 # Setup/Installation
 The program can be run using jupyter notebook using EDA_ts_sns.ipynb (You may need to change the directory in the code to your personal computer directory).
